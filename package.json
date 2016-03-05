@@ -1,0 +1,14 @@
+{
+  "name": "whisky-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes web for whisky prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jfatora",
+  "license": "ISC",
+  "dependencies": {
+    "x-ray": "^2.0.3"
+  }
+}
